@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: '2019-05-04T16:16:20Z'
+date: '2019-05-04'
 description: 'Welcome to my blog'
 ---
 

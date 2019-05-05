@@ -38,10 +38,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Sacramento building useful
-              things.
+              Written by <strong>{author}</strong> who is just a guy living in California trying to
+              help others achieve their financial goals.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>You should follow him on Twitter</a>
+              <a href={`https://twitter.com/${social.twitter}`}>You can follow me on twitter</a>
             </p>
           </div>
         );
