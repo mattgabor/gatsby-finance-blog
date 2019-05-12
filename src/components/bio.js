@@ -21,7 +21,7 @@ function Bio() {
           <div
             style={{
               display: `flex`,
-              marginBottom: rhythm(2.5),
+              marginBottom: rhythm(0.5),
             }}
           >
             <Image
@@ -38,10 +38,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who is just a guy living in California trying to
-              help others achieve their financial goals.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>You can follow me on twitter</a>
+              Personal Finance blog by{' '}
+              <a href={`https://twitter.com/${social.twitter}`}>{author}</a>
+              <br />
+              Trying to help at least one milennial become a better investor
             </p>
           </div>
         );
