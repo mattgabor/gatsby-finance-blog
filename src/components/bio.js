@@ -6,7 +6,7 @@
  */
 
 import React from 'react';
-import { StaticQuery, graphql } from 'gatsby';
+import { StaticQuery, Link, graphql } from 'gatsby';
 import Image from 'gatsby-image';
 
 import { rhythm } from '../utils/typography';
@@ -17,6 +17,12 @@ function Bio() {
       query={bioQuery}
       render={data => {
         const { author, social } = data.site.siteMetadata;
+
+        const aboutMeLink = (
+          <Link style={{ boxShadow: `none` }} to="/about">
+            (about me)
+          </Link>
+        );
         return (
           <div
             style={{
@@ -39,7 +45,7 @@ function Bio() {
             />
             <p>
               Personal Finance blog by{' '}
-              <a href={`https://twitter.com/${social.twitter}`}>{author}</a>
+              <a href={`https://twitter.com/${social.twitter}`}>{author}</a> {aboutMeLink}
               <br />
               Trying to help at least one milennial become a better investor
             </p>

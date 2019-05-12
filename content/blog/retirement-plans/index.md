@@ -1,5 +1,5 @@
 ---
-title: Quick Tip - Choosing a retirement plan
+title: Choosing a retirement plan
 date: '2019-05-05'
 description: '401k? IRA? Y2K? (Almost) everything you need to know before you choose a plan.'
 ---
