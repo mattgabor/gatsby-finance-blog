@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Money Matters with Matt`,
+    title: `Money Minus Fear 💸➖😨`,
     author: `Matt Gabor`,
-    description: `A personal finance blog for 20-somethings.`,
+    description: `A personal finance blog for millenials.`,
     siteUrl: `https://mattmoneymatters.netlify.com`,
     social: {
       twitter: `mattgabor`,
