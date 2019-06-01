@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: My First Post
 date: '2019-05-04'
-description: "Welcome to money matters with Matt! Here's a few things to learn while you're here"
+description: 'Welcome!'
 ---
 
 This is my first post on my new blog!
