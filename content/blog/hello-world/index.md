@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: '2019-05-04'
-description: "Welcome to money matters with Matt! Here\'s a few things to learn while you're here"
+description: "Welcome to money matters with Matt! Here's a few things to learn while you're here"
 ---
 
 This is my first post on my new blog!
