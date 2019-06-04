@@ -20,7 +20,7 @@ function Bio() {
 
         const aboutMeLink = (
           <Link style={{ boxShadow: `none` }} to="/about">
-            (about me)
+            Matt Gabor
           </Link>
         );
         return (
@@ -44,10 +44,9 @@ function Bio() {
               }}
             />
             <p>
-              Personal Finance blog by{' '}
-              <a href={`https://twitter.com/${social.twitter}`}>{author}</a> {aboutMeLink}
+              Personal Finance blog by {aboutMeLink}
               <br />
-              Trying to help at least one milennial become a better investor
+              Trying to help at least one milennial become more financially literate
             </p>
           </div>
         );
