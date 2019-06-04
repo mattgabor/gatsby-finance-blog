@@ -13,9 +13,10 @@ function AboutPage({ data, location }) {
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
       <div>
-        Just a regular guy with some financial tips I learned over the years. No formal education in
-        finance or industry exposure. Most content can be found elsewhere on the internet, but
-        synthesized by me and credit given where it's due. TODO: Add more
+        Dog lover, husband, outdoor enthusiast 🐶👫🌲. Just a regular guy with some financial tips I
+        learned over the years. No formal education in finance or industry exposure. Most content
+        can be found elsewhere on the internet, but synthesized by me and credit given where it's
+        due. TODO: Add more
       </div>
     </Layout>
   );
