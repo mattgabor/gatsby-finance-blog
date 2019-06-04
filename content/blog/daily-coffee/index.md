@@ -25,5 +25,5 @@ Real cost of expenditure: **\$179,658.12**
 
 > Calculator explination: If you spend $5.00 on an unnecessary product or service every day, over the course of 40 years you will end up spending $72,960.00. If you were to instead choose to invest the $5.00 every day rather than spend it on an unnecessary product or service, you could earn $106,698.12 in interest. This would bring the real price-tag of what you are spending your money on to $179,658.12. So the question you should ask yourself is this: Is what I am periodically spending my money on worth the $106,698.12 interest earnings that I am passing up in the process?
 
-[^1]: ROI: Return on Investment: see more [here](https://www.investopedia.com/terms/r/returnoninvestment.asp)
-[^2]: (I'm assuming a 4% ROI - which is totally doable via index funds, real estate investments, individual stocks, and many more investing avenues).
+[^1]: ROI (Return on Investment): the amount of return on a particular investment, relative to the investment’s cost ([Investopedia](https://www.investopedia.com/terms/r/returnoninvestment.asp))
+[^2]: I'm assuming a 4% ROI here - which is totally doable via index funds, real estate investments, individual stocks, and many more investing avenues.
