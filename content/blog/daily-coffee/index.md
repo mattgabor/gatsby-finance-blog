@@ -1,5 +1,5 @@
 ---
-title: 'Pick one: daily starbucks a day or $180k by retirement'
+title: 'Pick one: daily ☕ or $180k by retirement'
 date: '2019-06-03'
 description: 'How that seemingly harmless $5 a day is eating away at your potential gains'
 ---
