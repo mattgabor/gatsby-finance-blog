@@ -4,11 +4,15 @@ date: '2019-06-15'
 description: 'Less dollars today = more dollars tomorrow'
 ---
 
-As you can probably tell so far, I’m a huge proponent of reducing your monthly expenses. The reason for this is really simple: building wealth requires you to save, invest, and minimize debt. I suggest aiming to save as much of your take home pay as possible: at least 10%, ideally 20-30%. I realize that’s not possible for many people - especially those with families, but I do believe that everyone can find a way to cut back a bit and save more.
+As you can probably tell so far, I’m a huge proponent of reducing your monthly expenses. The reason for this is really simple: building wealth requires you to save, invest, and minimize debt. I suggest aiming to save as much of your take home pay as possible: at least 10%, ideally 20-30%.
+
+> Note: I realize that’s not possible for many people - especially those with families, but I do believe that everyone can find a way to cut back a bit and save more.
 
 Don’t want to save that much? I get it, you work hard for that 🧀 and want to spend it. But the small cheddar you save today can add up to a whole ton of it later in life if you follow some simple steps.
 
-> Related: (see more about how that money can grow here (link coming soon)).
+<!-- > Related: (see more about how that money can grow here (link coming soon)). -->
+
+![Chinese Salty Egg](./finance-desk.jpg)
 
 If you’re still reading - you might be asking yourself **how** you can cut back spend, and save 5, 10, 20, or even 50 percent of your monthly income. Well, you’re in luck. My buddy sent me [this post](https://www.reddit.com/r/Frugal/comments/bzri83/what_are_your_best_tips_and_tricks_for_cutting/) the other day from [/r/frugal](https://www.reddit.com/r/Frugal/) that had some great tips on how to cut back. I’ve taken some from there, and added my own to get you started [^1].
 
