@@ -18,7 +18,7 @@ If you’re still reading - you might be asking yourself **how** you can cut bac
 
 1. Make a budget & track your expenses
    - [YNAB](https://www.youneedabudget.com/) (which stands for You Need a Budget) is my all time favorite budgeting and expense tracking tool. It costs \$7 a month, but is well worth it in the long run.
-   - If you don’t want to pay for YNAB, [Mint](mint.com) is pretty good for basic expense tracking and budgeting. Use it to figure out where you can cut back.
+   - If you don’t want to pay for YNAB, [Mint](https://mint.com) is pretty good for basic expense tracking and budgeting. Use it to figure out where you can cut back.
    - Excel or google spreadsheets with a simple budgeting template can be just as effective if you are diligent about it.
 2. Buying something on sale isn’t a “deal” if you didn’t plan on buying it
 3. Take advantage of loyalty programs
@@ -48,4 +48,4 @@ If you’re still reading - you might be asking yourself **how** you can cut bac
 
 Do any of these simple changes sound doable? Am I crazy? Tell me in the comments!
 
-[^1]: Credit for original list goes to reddit user [Sweatin_Butter](<[https://www.reddit.com/user/Sweatin_Butter/](https://www.reddit.com/user/Sweatin_Butter/)>).
+[^1]: Credit for original list goes to reddit user [Sweatin_Butter](https://www.reddit.com/user/Sweatin_Butter).
