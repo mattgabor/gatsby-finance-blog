@@ -11,7 +11,7 @@ function AboutPage({ data, location }) {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO title="About me" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
       <div>
         Dog lover, husband, outdoor enthusiast 🐶👫🌲. Just a regular guy with some financial tips I
         learned over the years. No formal education in finance or industry exposure. Most content

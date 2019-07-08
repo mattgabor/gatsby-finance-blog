@@ -12,7 +12,7 @@ Don’t want to save that much? I get it, you work hard for that 🧀 and want t
 
 <!-- > Related: (see more about how that money can grow here (link coming soon)). -->
 
-![Chinese Salty Egg](./finance-desk.jpg)
+![Finance Desk](./finance-desk.jpg)
 
 If you’re still reading - you might be asking yourself **how** you can cut back spend, and save 5, 10, 20, or even 50 percent of your monthly income. Well, you’re in luck. My buddy sent me [this post](https://www.reddit.com/r/Frugal/comments/bzri83/what_are_your_best_tips_and_tricks_for_cutting/) the other day from [/r/frugal](https://www.reddit.com/r/Frugal/) that had some great tips on how to cut back. I’ve taken some from there, and added my own to get you started [^1].
 
