@@ -23,17 +23,17 @@ Let’s say you save $10,000 at a 5% interest rate. After the first year, you ea
 In your second year, the 5% interest rate is calculated on your new balance of $10,500 - NOT the original balance. So your interest earned in the 2nd year is $525, and your new total is \$11,025. Can you see where this is going now?
 
 | Year | Compound | Simple |
-|———|—————|————|
-| 1 | 10500 | 10500 |
-| 2 | 11025 | 11000 |
-| 3 | 11576 | 11500 |
-| 4 | 12155 | 12000 |
-| 5 | 12763 | 12500 |
-| 6 | 13401 | 13000 |
-| 7 | 14071 | 13500 |
-| 8 | 14775 | 14000 |
-| 9 | 15513 | 14500 |
-| 10 | 16289 | 15000 |
+| ---- | -------- | ------ |
+| 1    | 10500    | 10500  |
+| 2    | 11025    | 11000  |
+| 3    | 11576    | 11500  |
+| 4    | 12155    | 12000  |
+| 5    | 12763    | 12500  |
+| 6    | 13401    | 13000  |
+| 7    | 14071    | 13500  |
+| 8    | 14775    | 14000  |
+| 9    | 15513    | 14500  |
+| 10   | 16289    | 15000  |
 
 Now \$1289 over 10 years may not seem like a huge amount, but if you keep depositing into the account and save for even longer, there will be huge gains 💵💵💵
 
