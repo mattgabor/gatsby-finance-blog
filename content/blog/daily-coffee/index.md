@@ -6,7 +6,7 @@ description: 'How that seemingly harmless $5 a day is eating away at your potent
 
 So often I hear my fellow millenials talk about their obsession with their favorite hipster coffee shop. Single origin, small batch, pour over, the list goes on. Not a ☕ person? Maybe it's tacos🌮, fro-yo🍦, vape juice 💨, or your favorite IPA 🍺.
 
-When most people think of $5 a day - they only think about that - the money spent that day. Even if you add it all up it's only ~$1800 a year - which is _totally_ worth it for some people (☕ = ❤️). But what most milennials don't consider is the opportunity cost - or forgone interest from not having that money!
+When most people think of $5 a day - they only think about that - the money spent that day. Even if you add it all up it's only ~$1800 a year - which is _totally_ worth it for some people (☕ = ❤️). But what most millennials don't consider is the opportunity cost - or forgone interest from not having that money!
 
 Using this handy [calculator](https://financialmentor.com/calculator/latte-factor-calculator) I got from **Financial Mentor**, I tried to mimic the typical spending habits of those around me:
 
