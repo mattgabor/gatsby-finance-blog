@@ -46,7 +46,8 @@ function Bio() {
             <p>
               Personal Finance blog by {aboutMeLink}
               <br />
-              Trying to help at least one millennial become more financially literate
+              Consumable bites of knowledge for building wealth 🥕. Trying to help at least one
+              millennial become more financially literate.
             </p>
           </div>
         );
