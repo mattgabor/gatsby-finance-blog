@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Bite Sized Wealth`,
+    title: `Byte Sized Wealth`,
     author: `Matt Gabor`,
     description: `A personal finance blog with short, consumable content.`,
-    siteUrl: `https://bitesizedwealth.com`,
+    siteUrl: `https://bytesizedwealth.com`,
     social: {
       twitter: `mattgabor`,
     },
