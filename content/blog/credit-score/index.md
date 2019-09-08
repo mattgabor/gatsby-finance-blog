@@ -1,6 +1,6 @@
 ---
 title: How I boosted my credit score from 580 to 800
-date: '2019-09-02'
+date: '2019-09-08'
 description: 'My journey from bad credit to excellent - and tips on how to make the jump.'
 ---
 
