@@ -1,12 +1,12 @@
 ---
-title: How I brought my credit score from 580 to 800
+title: How I boosted my credit score from 580 to 800
 date: '2019-09-02'
 description: 'My journey from bad credit to excellent - and tips on how to make the jump.'
 ---
 
 ## Intro
 
-Greetings readers! Today’s post will be a bit different from the others: I’ll be providing advice based on a personal story. It's about how I made my credit score go from 🗑️ to 🚀 and the steps I took to get there. Your results may vary - but the basic principles and methods should be the same. One thing to keep in mind is that this process takes time! You can damage your credit very quickly, but the repair process is quite slow.
+Greetings readers! Today’s post will be a bit different from the others: I’ll be providing advice based on a personal story. It's about how I made my credit score go from 🗑️ to 🚀 and the steps I took to get there. Your results may vary - but the basic principles and methods should be the same. One thing to keep in mind is that this process takes time ⏳! You can damage your credit very quickly, but the repair process is quite slow.
 
 ![Matt Credit Score](./matt-credit-score.png)
 
@@ -26,7 +26,7 @@ Here I was, 20 years old with a 580 credit score. Like I said - it’s really ea
 
 ### Step 1: Start monitoring your credit
 
-The easiest (and most free) way I’ve found to do this is through [Credit Karma](https://www.creditkarma.com/) . You’ll be able to see your scores, your credit factors, and they will monitor your reports for any suspicious activity. Additionally, you’re entitled to one free credit report per year through [Annual Credit Report.com](https://www.annualcreditreport.com/index.action) which is provided by the US government.
+The easiest (and most free) way I’ve found to do this is through [Credit Karma](https://www.creditkarma.com/). You’ll be able to see your scores, your credit factors, and they will monitor your reports for any suspicious activity. Additionally, you’re entitled to one free credit report per year through [Annual Credit Report.com](https://www.annualcreditreport.com/index.action) which is provided by the US government.
 
 ### Step 2: Deal with delinquent accounts (AKA face your creditors)
 
@@ -34,7 +34,7 @@ If your score is below 700, it’s likely that you have some delinquent or past-
 
 ### Step 3: Open new accounts
 
-Once you’ve contacted the boogeymen & women, you can start opening new accounts to help boost your score. Initially it will be difficult to get approved for a regular credit card - but you can apply for a secured card to start (see [The 5 minute credit card guide](/credit-card-rewards)). From there - you should continue to open accounts and keep the ones you have open, utilizing as little as possible while keeping all accounts open and in good standing (autopay is your friend here).
+Once you’ve contacted the boogeymen 🧟, you can start opening new accounts to help boost your score. Initially it will be difficult to get approved for a regular credit card - but you can apply for a secured card to start (see [The 5 minute credit card guide](/credit-card-rewards)). From there - you should continue to open accounts and keep the ones you have open, utilizing as little as possible while keeping all accounts open and in good standing (autopay is your friend here 👯‍♂️).
 
 ## Maintaining your shiny new score ✨
 
