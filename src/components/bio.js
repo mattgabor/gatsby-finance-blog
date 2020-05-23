@@ -46,8 +46,9 @@ function Bio() {
             <p>
               Personal Finance blog by {aboutMeLink}
               <br />
-              Consumable knowledge bytes to help your path to wealth. Trying to help at least one
-              millennial become more financially literate.
+              Consumable knowledge bytes to chomp on your path to wealth. All posts are under
+              500(-ish) words. Trying to help at least one millennial become more financially
+              literate.
             </p>
           </div>
         );
