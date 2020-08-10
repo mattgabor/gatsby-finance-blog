@@ -8901,6 +8901,13 @@ is-relative-url@^3.0.0:
   dependencies:
     is-absolute-url "^3.0.0"
 
+is-relative-url@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/is-relative-url/-/is-relative-url-3.0.0.tgz#f623c8e26baa5bd3742b3b7ec074f50f3b45b3f3"
+  integrity sha512-U1iSYRlY2GIMGuZx7gezlB5dp1Kheaym7zKzO1PV06mOihiWTXejLwm4poEJysPyXF+HtK/BEd0DVlcCh30pEA==
+  dependencies:
+    is-absolute-url "^3.0.0"
+
 is-relative@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-relative/-/is-relative-1.0.0.tgz#a1bb6935ce8c5dba1e8b9754b9b2dcc020e2260d"
