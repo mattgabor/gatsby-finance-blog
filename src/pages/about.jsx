@@ -1,10 +1,9 @@
 import React from 'react';
-import { Link, graphql } from 'gatsby';
+import { graphql } from 'gatsby';
+import get from 'lodash.get';
 
-import Bio from '../components/bio';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
-import { rhythm } from '../utils/typography';
 
 /**
  Format:
@@ -18,16 +17,25 @@ import { rhythm } from '../utils/typography';
  */
 
 function AboutPage({ data, location }) {
-  const siteTitle = data.site.siteMetadata.title;
+  const siteTitle = get(data, 'site.siteMetadata.title');
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="About me" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
       <div>
-        Dog lover, husband, outdoor enthusiast 🐶👫🌲. Just a regular guy with some financial tips I
-        learned over the years. No formal education in finance or industry exposure. Most content
-        can be found elsewhere on the internet, but synthesized by me and credit given where it's
-        due.
+        Dog lover, husband, outdoor enthusiast{' '}
+        <span role="img" aria-label="Dog">
+          🐶
+        </span>
+        <span role="img" aria-label="Couple">
+          👫
+        </span>
+        <span role="img" aria-label="Tree">
+          🌲
+        </span>
+        . Just a regular guy with some financial tips I learned over the years. No formal education
+        in finance or industry exposure. Most content can be found elsewhere on the internet, but
+        synthesized by me and credit given where it's due.
       </div>
     </Layout>
   );
