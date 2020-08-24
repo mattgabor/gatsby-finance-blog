@@ -1,11 +1,11 @@
 import React from 'react';
-import { Link, graphql } from 'gatsby';
+import { graphql } from 'gatsby';
 import get from 'lodash.get';
 
 import Bio from '../components/bio';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
-import { rhythm } from '../utils/typography';
+import ArticlePreview from '../components/ArticlePreview';
 
 export function BlogIndex({ data, location }) {
   const siteTitle = get(data, 'site.siteMetadata.title');
@@ -15,29 +15,15 @@ export function BlogIndex({ data, location }) {
     <Layout location={location} title={siteTitle}>
       <SEO title="Byte Sized Wealth" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
       <Bio />
-      {posts.map(({ node }) => {
-        const title = node.title || node.slug;
-        return (
-          <div key={node.slug}>
-            <h3
-              style={{
-                marginBottom: rhythm(1 / 4),
-              }}
-            >
-              <Link style={{ boxShadow: `none` }} to={node.slug}>
-                {title}
-              </Link>
-            </h3>
-            <small>{node.publishDate}</small>
-            <p
-              // eslint-disable-next-line react/no-danger
-              dangerouslySetInnerHTML={{
-                __html: node.description.childMarkdownRemark.html || node.excerpt,
-              }}
-            />
-          </div>
-        );
-      })}
+      <ul className="article-list">
+        {posts.map(({ node }) => {
+          return (
+            <li key={node.slug}>
+              <ArticlePreview article={node} />
+            </li>
+          );
+        })}
+      </ul>
     </Layout>
   );
 }
